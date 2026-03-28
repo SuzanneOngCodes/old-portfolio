@@ -1,2 +1,3 @@
 # Raw code folder for Portfolio Website
-Access through https://suzanneongcodes.github.io/Portfolio/
+
+Access through https://suzanneongcodes.github.io/old-portfolio/
